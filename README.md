@@ -1,4 +1,4 @@
-# Faculdade- -Materia-ALGORITMO-2
+# Faculdade - Materia-ALGORITMO-2
 
 Faculdade UniCesumar - Módulo 52 - Engenharia de Software!
 
