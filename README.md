@@ -1,4 +1,4 @@
-# Faculdade - Materia-ALGORITMO-2
+# Faculdade - Materia: Algoritmos e lógica de Programação II
 
 Faculdade UniCesumar - Engenharia de Software!
 
